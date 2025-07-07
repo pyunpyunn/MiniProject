@@ -1,2 +1,2 @@
-# MiniProject
+# Music School Website
 mini project
